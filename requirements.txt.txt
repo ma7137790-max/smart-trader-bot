@@ -1,4 +1,4 @@
 streamlit
-telebot
+pyTelegramBotAPI
 requests
 yfinance
